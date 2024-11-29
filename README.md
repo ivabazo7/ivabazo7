@@ -3,7 +3,7 @@
 
 ## Projects 📚 👩🏻‍💻
 
-### Simple Asteroid Game 🎮 🚀 🌌
+### Simple Asteroids Game 🎮 🚀 🌌
 https://simple-asteroids.onrender.com/
 
 <!--
